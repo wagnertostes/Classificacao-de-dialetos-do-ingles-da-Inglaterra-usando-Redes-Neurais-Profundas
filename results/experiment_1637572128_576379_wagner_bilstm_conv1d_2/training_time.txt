@@ -1,0 +1,1 @@
+total-training-time: 76.96min avg-epoch-train: 18.4692s ETA: 0.00min
